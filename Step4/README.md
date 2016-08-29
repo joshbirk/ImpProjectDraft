@@ -56,6 +56,6 @@ ou will need to create a custom object with fields that correspond to each readi
     - Make a note of your **API Name** (you will need to enter this into your agent code)
 ![Salesforce API Name](http://i.imgur.com/tL6ar7Z.png)
 
-Open the Electric Imp IDE & select your device.  Find the *SALESFORCE CONSTANTS* section at the bottom of the Agent code and enter your **OBJ_API_NAME**. You are now ready to [launch your app](#launching-app).
+Open the Electric Imp IDE and select your device.  Find the *SALESFORCE CONSTANTS* section at the bottom of the Agent code and enter your **OBJ_API_NAME**. You are now ready to [launch your app](#launching-app).
 
 ![IDE with code](http://i.imgur.com/hvligYx.png)
